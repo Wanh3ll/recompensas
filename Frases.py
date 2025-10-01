@@ -1,5 +1,6 @@
 listaFrases = {"Ultimas notícias sobre a economia global.",
 "Analise do cenario politico atual.",
+"Lua na praia",
 "Como a tecnologia muda o mercado de trabalho.",
 "Consequencias do aquecimento global.",
 "Cobertura da eleicao presidencial.",

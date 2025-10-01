@@ -20,4 +20,4 @@ while contador < limite:
     contador += 1
 pyautogui.alert("********* CICLO DO CONTADOR COMPLETO *********\n"+"O limite foi de "+str(limite))
 
-#created by @Wanh3ll
+    #created by @Wanh3ll
