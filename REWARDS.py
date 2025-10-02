@@ -1,6 +1,8 @@
 import pyautogui
 import time
 import random
+# install "python" extension
+# pip install pyautogui
 
 contador = 1
 limite = random.randint(40, 60)
