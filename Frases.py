@@ -1,4 +1,4 @@
-listaFrases = {"Ultimas notícias sobre a economia global.",
+listaFrases = ["Ultimas notícias sobre a economia global.",
 "Analise do cenario politico atual.",
 "Lua na praia",
 "Como a tecnologia muda o mercado de trabalho.",
@@ -1117,4 +1117,4 @@ listaFrases = {"Ultimas notícias sobre a economia global.",
 "melhores livros de poesia brasileira contemporanea 2026",
 "como fazer um bolo de banana com canela e aveia integral e nozes",
 "melhores series de suspense com viagem no tempo e misterio 2026",
-}
+]
