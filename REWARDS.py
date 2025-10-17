@@ -5,7 +5,7 @@ import random
 # pip install pyautogui
 
 contador = 1
-limite = random.randint(40, 60)
+limite = random.randint(10, 16)
 pyautogui.FAILSAFE = True
 pyautogui.PAUSE = random.randint(3, 10)/2
 time.sleep(10)
