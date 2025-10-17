@@ -12,12 +12,9 @@ time.sleep(10)
 
 from Frases import listaFrases
 while contador < limite:
-    pyautogui.press("/")
-    pyautogui.hotkey("ctrl", "a")
-    pyautogui.press("backspace", presses=random.randint(3, 7))     
+    pyautogui.write(random.choice(list(listaFrases)), interval=(random.randint(1,3)/100)) 
     pyautogui.write(random.choice(list(listaFrases)), interval=(random.randint(1,3)/8))
     pyautogui.press("enter")
-    time.sleep(random.randint(15, 30)/2)
     contador += 1
 pyautogui.alert("********* CICLO DO CONTADOR COMPLETO *********\n"+"O limite foi de "+str(limite))
 
