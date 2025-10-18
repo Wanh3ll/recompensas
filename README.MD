@@ -1,5 +1,13 @@
-Programa de testes para Rewards v3.8
-Criado no VS Code
-# install "python" extension
+    *In Portuguese*
+Programa de testes para Recompensas v4.0
+Criado no VS Code em Python
 # pip install pyautogui
-    By Wanh3ll
+Obs: Durante os testes, recomendo usar o bloco de notas
+
+    *In English*
+Test Program for Rew v4.0
+Created on the VS Code in Python
+# pip install pyautogui
+Obs: During at tests, is recommended uses the notepad
+
+Created by @Wanh3ll
