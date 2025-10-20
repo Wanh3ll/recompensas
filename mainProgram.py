@@ -3,7 +3,7 @@ import time
 import random
 
 c = 0
-l = random.randint(14, 21)
+l = random.randint(33, 41)
 pyautogui.FAILSAFE = True
 pyautogui.PAUSE = random.randint(7, 16)/3
 time.sleep(10)
