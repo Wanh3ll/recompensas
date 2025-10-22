@@ -11,7 +11,11 @@ phrases = [
 "Resumo das principais manchetes do dia.",
 "O futuro da energia renovavel.",
 "Entretenimento e cultura",
-"Critica do novo filme."
+"Critica do novo filme.",
+"Chuva de meteoros",
+"Resenha do livro mais vendido.",
+"Como ver a chuva de meteoros.",
+"Eventos culturais na cidade.",
 "Resenha do album mais recente.",
 "Melhores series de ficcao cientifica.",
 "Guia de festivais de musica.",
