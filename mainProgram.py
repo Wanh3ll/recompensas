@@ -1,3 +1,5 @@
+# By @Wanh3ll
+
 import pyautogui
 import time
 import random
@@ -18,5 +20,3 @@ while c < l:
     time.sleep(random.randint(32, 40)/3)
     c += 1
 pyautogui.alert(f"**** COMPLETE COUNTER CICLE ****\nThe limit was {l}")
-
-# By @Wanh3ll

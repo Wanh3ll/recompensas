@@ -1,3 +1,5 @@
+# By @Wanh3ll
+
 phrases = [
 "Ultimas noticias sobre a economia global.",
 "Analise do cenario politico atual.",

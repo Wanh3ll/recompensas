@@ -1,3 +1,5 @@
+# By @Wanh3ll 
+ 
     *In Portuguese*
 Programa de testes para Recompensas v4.0
 Criado no VS Code em Python
@@ -9,5 +11,3 @@ Test Program for Rew v4.0
 Created on the VS Code in Python
 # pip install pyautogui
 Obs: During at tests, is recommended uses the notepad
-
-Created by @Wanh3ll
