@@ -1,7 +1,7 @@
 # By @Wanh3ll 
  
     *In Portuguese*
-Programa de testes para Recompensas v4.0
+Programa de testes para Recompensas v4.2.6
 Criado no VS Code em Python
 # pip install pyautogui
 Obs: Durante os testes, recomendo usar o bloco de notas
