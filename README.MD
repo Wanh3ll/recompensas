@@ -12,4 +12,4 @@ Created on the VS Code in Python
 # pip install pyautogui
 Obs: During at tests, is recommended uses the notepad
 
-v 4.2.7
+v 4.2.8
