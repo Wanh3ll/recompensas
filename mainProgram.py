@@ -17,6 +17,6 @@ while c < l:
     pyautogui.press("backspace", presses=random.randint(3, 7))     
     pyautogui.write(random.choice(list(phrases)), interval=(random.randint(1,3)/8))
     pyautogui.press("enter")
-    time.sleep(random.randint(32, 43)/3)
+    time.sleep(random.randint(40, 58)/3)
     c += 1
 pyautogui.alert(f"**** COMPLETE COUNTER CICLE ****\nThe limit was {l}")
