@@ -5,7 +5,7 @@ import time
 import random
 
 c = 0
-l = random.randint(65, 75) # reduzir 30 após terminar o dobro de pontos
+l = random.randint(62, 69) # reduzir 30 após terminar o dobro de pontos
 pyautogui.FAILSAFE = True
 pyautogui.PAUSE = random.randint(4, 7)/5
 time.sleep(10)
