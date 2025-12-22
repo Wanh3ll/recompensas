@@ -13,3 +13,6 @@ Created on the VS Code in Python
 Obs: During at tests, is recommended uses the notepad
 
 v4.4
+...
+v5.0
+Added mouse movement and incial home function
