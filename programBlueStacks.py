@@ -5,21 +5,20 @@ import time
 import random
 
 c = 0
-l = random.randint(62, 69) # reduzir 30 após terminar o dobro de pontos
+l = random.randint(42, 49) # reduzir 20 após terminar o dobro de pontos
 pyautogui.FAILSAFE = True
-pyautogui.PAUSE = random.randint(4, 7)/5
+pyautogui.PAUSE = random.randint(8, 14)/5
 time.sleep(10)
 
 from search import phrases
 while c < l:
-    pyautogui.press("/")
+    pyautogui.moveTo(x=1026, y=97, duration=1)
+    pyautogui.click()
     pyautogui.hotkey("ctrl", "a")
     pyautogui.press("backspace", presses=random.randint(3, 7))     
-    pyautogui.write(random.choice(list(phrases)), interval=(random.randint(1,2)/15))
+    pyautogui.write(random.choice(list(phrases)), interval=(random.randint(2,4)/11))
     pyautogui.press("enter")
     time.sleep(random.randint(27, 37)/7)
     c += 1
-    pyautogui.hotkey("alt", "home")
-    time.sleep(random.randint(8, 11)/3)
-    pyautogui.click()    
+    time.sleep(random.randint(9, 13)/2)
 pyautogui.alert(f"**** COMPLETE COUNTER CICLE ****\nThe limit was {l}")

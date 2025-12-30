@@ -17,3 +17,7 @@ v4.4
 v5.0
 Added mouse movement and incial home function
 v5.1.3
+...
+v6.0
+added Blue Staks search program
+print mouse position program
