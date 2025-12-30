@@ -18,6 +18,9 @@ v5.0
 Added mouse movement and incial home function
 v5.1.3
 ...
-v6.0
+v6.0.1
 added Blue Staks search program
+    resolution: 540x960
+    60fps
+    phone type: random
 print mouse position program
