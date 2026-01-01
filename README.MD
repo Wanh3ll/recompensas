@@ -24,3 +24,5 @@ added Blue Staks search program
     60fps
     phone type: random
 print mouse position program
+v6.1
+    pontos normais

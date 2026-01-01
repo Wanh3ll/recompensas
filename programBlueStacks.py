@@ -5,14 +5,14 @@ import time
 import random
 
 c = 0
-l = random.randint(42, 49) # reduzir 20 após terminar o dobro de pontos
+l = random.randint(22, 29) 
 pyautogui.FAILSAFE = True
 pyautogui.PAUSE = random.randint(8, 14)/5
 time.sleep(10)
 
 from search import phrases
 while c < l:
-    pyautogui.moveTo(x=1026, y=97, duration=1)
+    pyautogui.moveTo(x=1100, y=97, duration=1)
     pyautogui.click()
     pyautogui.hotkey("ctrl", "a")
     pyautogui.press("backspace", presses=random.randint(3, 7))     

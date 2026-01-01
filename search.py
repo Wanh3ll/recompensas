@@ -1543,7 +1543,7 @@ original_phrases = [
 "melhores destinos para ver a aurora boreal",
 "receita de bacalhoada tradicional portuguesa",
 "como investir em fundos imobiliarios",
-"previsao do tempo para o carnaval 2025",
+"previsao do tempo para o carnaval",
 "exercicios de calistenia para iniciantes",
 "como fazer uma tecnica de respiracao pranayama",
 "melhores cidades para intercambio no canada",
