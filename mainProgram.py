@@ -15,7 +15,7 @@ while c < l:
     pyautogui.press("/")
     pyautogui.hotkey("ctrl", "a")
     pyautogui.press("backspace", presses=random.randint(3, 7))     
-    pyautogui.write(random.choice(list(phrases)), interval=(random.randint(1,2)/15))
+    pyautogui.write(random.choice(list(phrases)), interval=(random.randint(2,4)/13))
     pyautogui.press("enter")
     time.sleep(random.randint(27, 37)/7)
     c += 1

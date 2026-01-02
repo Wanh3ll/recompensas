@@ -1,5 +1,3 @@
-# By @Wanh3ll
-
 import pyautogui
 import time
 import random
@@ -12,7 +10,7 @@ time.sleep(10)
 
 from search import phrases
 while c < l:
-    pyautogui.moveTo(x=1100, y=97, duration=1)
+    pyautogui.moveTo(x=1070, y=97, duration=1)
     pyautogui.click()
     pyautogui.hotkey("ctrl", "a")
     pyautogui.press("backspace", presses=random.randint(3, 7))     

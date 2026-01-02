@@ -26,3 +26,5 @@ added Blue Staks search program
 print mouse position program
 v6.1
     pontos normais
+
+v6.1.1
