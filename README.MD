@@ -28,5 +28,5 @@ v6.1
     pontos normais
 
 v6.1.1
-v6.2.2
+v6.2.3
     search speed mod
