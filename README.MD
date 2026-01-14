@@ -30,3 +30,5 @@ v6.1
 v6.1.1
 v6.2.3
     search speed mod
+v6.3
+    mod search

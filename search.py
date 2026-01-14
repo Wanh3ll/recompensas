@@ -1639,7 +1639,7 @@ original_phrases = [
 "como fazer kombucha em casa passo a passo",
 "dicas de feng shui para o quarto",
 "como desenvolver a inteligencia emocional",
-"como emitir visto para o Japao em 2025",
+"como emitir visto para o Japao",
 "melhores destinos para viajar sozinha na Europa",
 "receita de feijoada completa para 20 pessoas",
 "como investir em ouro com pouco dinheiro",
