@@ -1,5 +1,3 @@
-# By @Wanh3ll
-
 import pyautogui
 import time
 import random
@@ -16,8 +14,6 @@ while c < l:
     pyautogui.moveTo(x=(random.randint(667, 1247)), 
     y=(random.randint(166, 190)), duration=(random.randint(3,6)/2.5))
     pyautogui.click()
-    #pyautogui.press("/")
-    #pyautogui.hotkey("ctrl", "a")
     pyautogui.press("backspace", presses=random.randint(60, 99))     
     pyautogui.write(random.choice(list(phrases)), interval=(random.randint(2,4)/22.7))
     pyautogui.press("enter")
