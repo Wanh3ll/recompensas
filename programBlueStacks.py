@@ -6,7 +6,7 @@ c = 0
 l = random.randint(22, 29) 
 pyautogui.FAILSAFE = True
 pyautogui.PAUSE = random.randint(8, 12)/12.2
-time.sleep(10)
+time.sleep(5)
 
 from search import phrases
 while c < l:

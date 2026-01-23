@@ -1,6 +1,4 @@
-# By @Wanh3ll
-
-original_phrases = [
+originalPhrases = [
 "marketing digital",
 "receita de feijoada",
 "operadores de busca google",
@@ -2041,4 +2039,4 @@ original_phrases = [
 "como desenvolver a resiliencia emocional",
 ]
 
-phrases = set(original_phrases)
+phrases = set(originalPhrases)

@@ -32,3 +32,8 @@ v6.2.3
     search speed mod
 v6.3.1
     mod search
+
+v7.0
+    adicionado a função mover mouse e localizar objeto na tela. 
+    Consiste em rastrear o objeto (imagem.png) por exemplo, mover o mouse e clicar no local rastreado.
+    Suporta resolução fullHD
