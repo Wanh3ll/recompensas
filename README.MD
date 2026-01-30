@@ -5,7 +5,6 @@ Programa de testes para Recompensas
 Criado no VS Code em Python
 # pip install pyautogui
 # pip install opencv-python
-# pip install pyinstaller
 # pip install cx_Freeze
 Obs: Durante os testes, recomendo usar o bloco de notas
 
@@ -14,7 +13,6 @@ Test Program for Rew
 Created on the VS Code in Python
 # pip install pyautogui
 # pip install opencv-python
-# pip install pyinstaller
 # pip install cx_Freeze
 Obs: During at tests, is recommended uses the notepad
 
