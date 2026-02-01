@@ -41,6 +41,6 @@ v7.0
     adicionado a função mover mouse e localizar objeto na tela. 
     Consiste em rastrear o objeto (imagem.png) por exemplo, mover o mouse e clicar no local rastreado.
     Suporta resolução fullHD
-v8.0
+v8.1
     Programa complilado em executável
     Criada a interface gráfica simples

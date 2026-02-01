@@ -1,8 +1,9 @@
 import pyautogui
 import time
 import random
-from moveMouse import fullHD
+from moveMouse import moveEdge
 
+print("Script Edge iniciado")
 def main():    
     c = 0
     l = random.randint(32, 39)
@@ -13,7 +14,7 @@ def main():
     from search import phrases
     while c < l:
         pyautogui.hotkey("alt", "home")        
-        fullHD()
+        moveEdge()
         pyautogui.press("backspace", presses=random.randint(6, 9))     
         pyautogui.write(random.choice(list(phrases)), interval=(random.randint(2,4)/22.7))
         pyautogui.press("enter")    
@@ -21,3 +22,4 @@ def main():
         c += 1
         time.sleep(random.randint(8, 11)/6.2)        
     pyautogui.alert(f"**** COMPLETE COUNTER CICLE ****\nThe limit was {l}")
+print("Script Edge Finalizado")
