@@ -2,7 +2,7 @@ from cx_Freeze import setup, Executable
 import sys
 
 # Lista de arquivos para incluir: ("origem", "destino_na_pasta_final")
-files = ["images/edge.png", "images/blueStacks.png"] 
+files = ["edge.png", "blueStacks.png"] 
 
 build_exe_options = {
     "include_files": files,

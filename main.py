@@ -4,7 +4,7 @@ import blueStacks
 
 window = Tk()
 window.title("Recompensas")
-window.geometry("640x480")
+window.geometry("300x150")
 labelInitial = Label(window, text = "Selecione o programa desejado\n")
 labelInitial.pack() 
 
