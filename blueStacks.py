@@ -3,7 +3,6 @@ import time
 import random
 from moveMouse import moveBlueStacks
 
-print("Script Blue Stacks iniciado")
 def blueMain():
     c = 0
     l = random.randint(22, 29) 
@@ -22,4 +21,3 @@ def blueMain():
         time.sleep(random.randint(22, 28)/6.1)
         c += 1
     pyautogui.alert(f"**** COMPLETE COUNTER CICLE ****\nThe limit was {l}")
-print("Script Blue Stacks Finalizado")

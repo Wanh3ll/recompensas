@@ -3,7 +3,6 @@ import time
 import random
 from moveMouse import moveEdge
 
-print("Script Edge iniciado")
 def main():    
     c = 0
     l = random.randint(32, 39)
@@ -22,4 +21,3 @@ def main():
         c += 1
         time.sleep(random.randint(8, 11)/6.2)        
     pyautogui.alert(f"**** COMPLETE COUNTER CICLE ****\nThe limit was {l}")
-print("Script Edge Finalizado")
