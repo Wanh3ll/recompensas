@@ -7,6 +7,7 @@ Criado no VS Code em Python
 # pip install opencv-python
 # pip install cx_Freeze
 Obs: Durante os testes, recomendo usar o bloco de notas
+Tirar um print e salvar o botão de pesquisa com o nome edge.png e blueStacks.png
 
     *In English*
 Test Program for Rew
@@ -15,6 +16,7 @@ Created on the VS Code in Python
 # pip install opencv-python
 # pip install cx_Freeze
 Obs: During at tests, is recommended uses the notepad
+Take a screenshot and save the search button with the names edge.png and blueStacks.png
 
 v4.4
 ...
@@ -41,6 +43,6 @@ v7.0
     adicionado a função mover mouse e localizar objeto na tela. 
     Consiste em rastrear o objeto (imagem.png) por exemplo, mover o mouse e clicar no local rastreado.
     Suporta resolução fullHD
-v8.2
+v8.2.1
     Programa complilado em executável
     Criada a interface gráfica simples
