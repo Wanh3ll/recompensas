@@ -28,6 +28,8 @@ v6.0.1
 added Blue Staks search program
     resolution: 540x960
     60fps
+    160DPI
+    guidance: portrait
     phone type: random
 print mouse position program
 v6.1
@@ -43,6 +45,6 @@ v7.0
     adicionado a função mover mouse e localizar objeto na tela. 
     Consiste em rastrear o objeto (imagem.png) por exemplo, mover o mouse e clicar no local rastreado.
     Suporta resolução fullHD
-v8.2.1
+v8.2.2
     Programa complilado em executável
     Criada a interface gráfica simples
