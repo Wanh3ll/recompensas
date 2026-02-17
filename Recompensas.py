@@ -10,7 +10,7 @@ labelInitial.pack()
 
 def button1():  
     print("Script Edge iniciado")  
-    edge.main()
+    edge.edgeMain()
     print("Script Edge Finalizado")
 
 button1 = Button(window, text = "EDGE", command = button1)
@@ -24,4 +24,4 @@ def button2():
 button2 = Button(window, text = "BLUE STACKS", command = button2)
 button2.pack()
 
-window.mainloop()
+window.mainloop() 

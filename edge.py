@@ -3,7 +3,7 @@ import time
 import random
 from moveMouse import moveEdge
 
-def main():    
+def edgeMain():    
     c = 0
     l = random.randint(31, 34)
     pyautogui.FAILSAFE = True

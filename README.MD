@@ -4,6 +4,7 @@
 Programa de testes para Recompensas
 Criado no VS Code em Python
 # pip install pyautogui
+# pip install Pillow
 # pip install opencv-python
 # pip install cx_Freeze
 Obs: Durante os testes, recomendo usar o bloco de notas
@@ -13,6 +14,7 @@ Tirar um print e salvar o botão de pesquisa com o nome edge.png e blueStacks.pn
 Test Program for Rew
 Created on the VS Code in Python
 # pip install pyautogui
+# pip install Pillow
 # pip install opencv-python
 # pip install cx_Freeze
 Obs: During at tests, is recommended uses the notepad
@@ -45,6 +47,6 @@ v7.0
     adicionado a função mover mouse e localizar objeto na tela. 
     Consiste em rastrear o objeto (imagem.png) por exemplo, mover o mouse e clicar no local rastreado.
     Suporta resolução fullHD
-v8.2.2
+v8.3
     Programa complilado em executável
     Criada a interface gráfica simples

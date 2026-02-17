@@ -7,7 +7,6 @@ def blueMain():
     c = 0
     l = random.randint(21, 24) 
     pyautogui.FAILSAFE = True
-    #pyautogui.PAUSE = 0.1
     pyautogui.PAUSE = random.randint(8, 12)/12.2
     time.sleep(5)
 

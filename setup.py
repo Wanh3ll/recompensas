@@ -9,7 +9,7 @@ build_exe_options = {
     # Outras opções podem ser adicionadas aqui conforme necessário
 }
 executables = [
-    Executable("main.py", base=None, icon="icone.ico") # Substitua pelo nome do seu script
+    Executable("Recompensas.py", base=None, icon="icone.ico") # Substitua pelo nome do seu script
 ]
 setup(
     name="Recompensas",
