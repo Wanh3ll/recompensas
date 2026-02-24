@@ -9,7 +9,7 @@ def moveEdge():
     resolutionY2 = int(resolution[1] / 4 + 200)
     pyautogui.moveTo(random.choice([resolutionX1, resolutionX2]), 
     random.choice([resolutionY1, resolutionY2]), duration = 0.5)
-    imagem1 = pyautogui.locateCenterOnScreen("edge.png", confidence=0.8, grayscale=False)
+    imagem1 = pyautogui.locateCenterOnScreen("edge.png", confidence=0.7, grayscale=False)
     pyautogui.moveTo(imagem1[0] - 200, imagem1[1], duration = 0.5)
     centerImage1 = pyautogui.position()
     centerImage1 = (int(centerImage1[0]), int(centerImage1[1]))
@@ -23,7 +23,7 @@ def moveEdge():
     pyautogui.click()
 
 def moveBlueStacks():      
-    imagem2 = pyautogui.locateCenterOnScreen("blueStacks.png", confidence=0.8, grayscale=False)
+    imagem2 = pyautogui.locateCenterOnScreen("blueStacks.png", confidence=0.7, grayscale=False)
     pyautogui.moveTo(imagem2[0] - 50, imagem2[1], duration = 0.5)
     centerImage2 = pyautogui.position()
     centerImage2 = (int(centerImage2[0]), int(centerImage2[1]))
