@@ -50,5 +50,5 @@ v7.0
 v8.3
     Programa complilado em executável
     Criada a interface gráfica simples
-v8.4
+v8.4.1
     Nova aba Edge ao fazer uma pesquisa a partir da home
