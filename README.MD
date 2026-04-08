@@ -52,3 +52,5 @@ v8.3
     Criada a interface gráfica simples
 v8.4.1
     Nova aba Edge ao fazer uma pesquisa a partir da home
+v9.0.1
+    add .wan archives
