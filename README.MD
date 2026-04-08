@@ -7,8 +7,6 @@ Criado no VS Code em Python
 # pip install Pillow
 # pip install opencv-python
 # pip install cx_Freeze
-Obs: Durante os testes, recomendo usar o bloco de notas
-Tirar um print e salvar o botão de pesquisa com o nome edge.png e blueStacks.png
 
     *In English*
 Test Program for Rew
@@ -17,8 +15,6 @@ Created on the VS Code in Python
 # pip install Pillow
 # pip install opencv-python
 # pip install cx_Freeze
-Obs: During at tests, is recommended uses the notepad
-Take a screenshot and save the search button with the names edge.png and blueStacks.png
 
 v4.4
 ...
@@ -52,5 +48,5 @@ v8.3
     Criada a interface gráfica simples
 v8.4.1
     Nova aba Edge ao fazer uma pesquisa a partir da home
-v9.0.1
+v9.0.2
     add .wan archives
