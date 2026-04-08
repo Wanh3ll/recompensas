@@ -2,7 +2,3 @@ __pycache__
 build
 locateOnScreen.py
 mousePosition.py
-*.spec
-*.ico
-*.png
-*.lnk
