@@ -42,3 +42,5 @@ Added mouse movement and incial home function
     Nova aba Edge ao fazer uma pesquisa a partir da home
 # v9.0
     add .wan archives
+# v9.1
+    detecção da resolução da tela
