@@ -28,7 +28,7 @@ Added mouse movement and incial home function
 
 # v7.0
     Added the function to move the mouse and locate objects on the screen.
-    It consists of tracking the object (image.png), for example, moving the mouse and clicking on the tracked location.
+    It consists of tracking the object "images", for example, moving the mouse and clicking on the tracked location.
     Supports fullHD resolution.
 # v8.3
     Compiled program in executable format
