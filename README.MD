@@ -9,12 +9,10 @@ Created on the VS Code in Python
     opencv-python >> processing image 
     cx_Freeze >> setup building
 
-# v4.4
+# v1.0
 ...
 # v5.0
 Added mouse movement and incial home function
-# v5.1.3
-...
 # v6.0.1
     added Blue Staks search program:
         resolution: 540x960
@@ -24,23 +22,20 @@ Added mouse movement and incial home function
         phone type: random
   
 
-# v6.1.1
-    ...
-# v6.2.3
+# v6.1
     search speed mod
-# v6.3.1
     mod search
 
 # v7.0
-    adicionado a função mover mouse e localizar objeto na tela. 
-    Consiste em rastrear o objeto (imagem.png) por exemplo, mover o mouse e clicar no local rastreado.
-    Suporta resolução fullHD
+    Added the function to move the mouse and locate objects on the screen.
+    It consists of tracking the object (image.png), for example, moving the mouse and clicking on the tracked location.
+    Supports fullHD resolution.
 # v8.3
-    Programa complilado em executável
-    Criada a interface gráfica simples
+    Compiled program in executable format
+    Simple graphical interface created
 # v8.4.1
-    Nova aba Edge ao fazer uma pesquisa a partir da home
+    New Edge tab when performing a search from the home page.
 # v9.0
     add .wan archives
 # v9.1
-    detecção da resolução da tela
+    Screen resolution fix

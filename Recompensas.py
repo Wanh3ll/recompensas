@@ -9,7 +9,7 @@ if res <= (1920, 1080):
     resS = 350, 200
     print(f"Resolução: {res[0]}x{res[1]}")
 elif res > (1920, 1080):
-    resS = 600, 350
+    resS = 800, 400
     print(f"Resolução: {res[0]}x{res[1]}")
 window = Tk()
 window.title("Recompensas")
