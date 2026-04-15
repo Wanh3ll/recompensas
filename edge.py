@@ -18,8 +18,7 @@ def edgeMain():
         pyautogui.press("enter")    
         time.sleep(random.randint(27, 37)/6.4)
         c += 1
-        time.sleep(random.randint(8, 11)/6.2)             
-        #pyautogui.hotkey("ctrl", "w")
+        time.sleep(random.randint(8, 11)/6.2)
         pyautogui.hotkey("alt", "home")
         time.sleep(random.randint(8, 11)/6.2)   
     pyautogui.alert(f"**** COMPLETE COUNTER CICLE ****\nThe limit was {l}")
