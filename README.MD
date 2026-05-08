@@ -37,5 +37,6 @@ Added mouse movement and incial home function
     New Edge tab when performing a search from the home page.
 # v9.0
     add .wan archives
-# v9.1
+# v9.2
+    Change search phrases
     Screen resolution fix
